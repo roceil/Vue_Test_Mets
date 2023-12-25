@@ -9,4 +9,4 @@
 
 - 使用 `unhead` 設定 shoplist 頁面的動態 Meta Tags，title 跟 description 會依據 API 回傳內容更改。
 
-- 測試 daisui 好不好依據個人化樣式進行改動。
+- 測試 `daisyUI` 好不好依據個人化樣式進行改動。
